@@ -2,7 +2,8 @@
 
 **Home Economics** is a sleek, modern web-based personal finance tracker built to help individuals and families easily manage their income, expenses, and savings goals. It provides analytics, visual dashboards, and personalized savings tips – all without needing an account or backend!
 
-![Home Economics Demo](./0bb2de18-18d0-4b3d-a49c-2d28abbf8598.png)
+![Home Economics Demo](<img width="1325" height="917" alt="Знімок екрана 2025-07-12 010216" src="https://github.com/user-attachments/assets/4905ce49-dc2a-4bda-9409-daf62a86e4d9" />
+)
 
 ## 🌟 Features
 
