@@ -20,7 +20,7 @@
 > 🖼️ See the screenshot above or open the live preview in browser  
 > *(Add your link here if hosted on GitHub Pages, Vercel, Netlify, etc.)*  
 > Example:  
-> 👉 [Live Demo](https://your-demo-link.com)
+> 👉 [Live Demo]([https://your-demo-link.com](https://homeeconomics.netlify.app/))
 
 ## 🚀 Tech Stack
 
